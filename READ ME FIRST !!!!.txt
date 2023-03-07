@@ -1,0 +1,19 @@
+ LOGIN DETAILS :
+
+username : user
+password : pass
+
+ 
+
+If you wish to change the password of the system 
+Scroll to the bottom and find "void login" and change the username and password!!
+
+ 
+
+ 
+
+ 
+
+
+
+ 
